@@ -41,7 +41,7 @@ python virtual_keyboard.py
 <h2>⚙️ How It Works</h2>
 <ul>
   <li>Use your <b>index finger</b> to hover over a key</li>
-  <li>Tap your <b>middle finger</b> to select a key</li>
+  <li>Join your <b>middle finger and Index finger</b> to select a key</li>
   <li>Click <b>SP</b> for Space, <b>CL</b> for Backspace, and <b>CLR</b> to Clear</li>
 </ul>
 
