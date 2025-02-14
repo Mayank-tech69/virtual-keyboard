@@ -10,7 +10,7 @@
 
 <h2>🔧 Features</h2>
 <ul>
-  <li>Track <b>both hands</b> for natural typing</li>
+  <li>Track <b> hand</b> for natural typing</li>
   <li>Click keys using index and middle finger movement</li>
   <li>Supports <b>Backspace, Space, and Clear</b> functions</li>
   <li>Red-colored buttons with a light pink textbox for text</li>
@@ -23,7 +23,7 @@
 <h3>1️⃣ Clone the Repository</h3>
 
 <pre><code>
-git clone https://github.com/YourUsername/Hand-Gesture-Keyboard.git
+git clone https://github.com/Mayank-tech69/virtual-keyboard
 cd Hand-Gesture-Keyboard
 </code></pre>
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 <h3>3️⃣ Run the Project</h3>
 
 <pre><code>
-python virtual_keyboard.py
+python main.py
 </code></pre>
 
 <h2>⚙️ How It Works</h2>
