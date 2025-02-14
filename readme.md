@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">🖐️ Hand Gesture Virtual Keyboard</h1>
 
 
@@ -142,4 +142,4 @@ python virtual_keyboard.py
 
 
 
->>>>>>> 52c96af887dbb5a77c0b5bbce8a6189f7dafaff1
+
