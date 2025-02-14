@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import cv2 
 import mediapipe as mp 
 import numpy as np 
@@ -162,7 +162,7 @@ while True :
     if cv2.waitKey(1) & 0xff==ord('q'):
         break 
     
-=======
+
 import cv2 
 import mediapipe as mp 
 import numpy as np 
@@ -326,4 +326,4 @@ while True :
     if cv2.waitKey(1) & 0xff==ord('q'):
         break 
     
->>>>>>> 52c96af887dbb5a77c0b5bbce8a6189f7dafaff1
+
