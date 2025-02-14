@@ -24,7 +24,7 @@
 
 <pre><code>
 git clone https://github.com/Mayank-tech69/virtual-keyboard
-cd Hand-Gesture-Keyboard
+cd virtual-keyboard
 </code></pre>
 
 <h3>2️⃣ Install Dependencies</h3>
